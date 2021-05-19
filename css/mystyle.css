@@ -1,0 +1,18 @@
+
+    .header{
+        background-image: url(../images/mp.jpg);
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+    }
+    ul{
+        float: right;
+        margin-top: 25px;
+        list-style-type:circle ;
+    }
+    .logo img{
+        float: left;
+        height: auto;
+        width: 150px;
+
+    }
