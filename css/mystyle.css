@@ -14,6 +14,11 @@
         margin-inline-end: 0px;
         font-weight: bold;
     }
+    .metadata {
+        padding: 0px 200px 0px 200px;
+        font-size: 22px;
+        font-family: 'Comic Sans MS', 'Comic Sans','cursive';
+    }
     ul{
         float: right;
         margin-top: 20px;
